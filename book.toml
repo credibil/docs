@@ -4,7 +4,7 @@ description = "The example book covers examples."
 language = "en"
 multilingual = false
 src = "src"
-title = "Credibil VC: OpenID for Verifiable Credentials"
+title = "Credibil: Decentralized Web Applications"
 
 [preprocessor]
 
@@ -17,8 +17,8 @@ command = "mdbook-admonish"
 [output.html]
 additional-css = ["./mdbook-admonish.css"]
 cname = "credibil.io"
-edit-url-template = "https://github.com/credibil/vc/edit/main/docs/{path}"
-git-repository-url = "https://github.com/credibil/vc/"
+edit-url-template = "https://github.com/credibil/docs/edit/main/{path}"
+git-repository-url = "https://github.com/credibil/docs/"
 # site-url = "/"
 
 # [output.html.redirect]

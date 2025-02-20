@@ -1,38 +1,51 @@
+<img src="../images/logo-lockup.svg" alt="logo" width="250px"/>
+
 # Introduction
 
-Credibil VC is a library for issuing, holding, and verifying 
-Verifiable Credentials. It is designed to be modular and flexible, allowing 
-implementers to use only the modules needed.
+Credibil provides a collection of libraries for building decentralized web applications; a new 
+class of applications puts individuals (and their agents) at the centre.
 
-## Features
+<div style="padding:1rem;text-align:center;">
+    <img src="../images/decentralized-web.svg" alt="decentralized web" style="width:80%;max-width:400px;"/>
+</div>
 
-The Credibil VC library has two feature flags that can be used independently or work together for an
-end-to-end Verifiable Data solution:
+## Building Blocks
 
-- `issuer` — for building credential issuance APIs.
-- `verifier` — for building verifiable presentation APIs.
+The building of blocks of decentralized web applications are come from the domain of decentralized
+or self-sovereign identity (SSI): Decentralized Identitiers (DIDs), Verifiable Credentials (VCs), and
+decentralized web nodes (DWNs).
 
-## Holder
+<div style="padding:1rem;text-align:center;">
+    <img src="../images/building-blocks.svg" alt="decentralized web" style="width:80%;max-width:300px;"/>
+</div>
 
-In addition to the Credibil VC library is an opinionated SDK for developing applications that act as a holder's agent in the issuance, presentation and storage of Verifiable Credentials. This is found in a separate repository:
+**Decentralized Identifiers (DIDs)** — tamper-resistant, self-owned identifiers similar to email 
+addresses or usernames.
 
-- [`credibil-holder`] — greatly simplifies building cross-platform wallets.
+**Verifiable Credentials (VCs)** — digital credentials that provide cryptographically verifiable 
+proof of things like name, age, drivers licence, etc..
 
-[`credibil-holder`](https://github.com/credibil/holder)
+**Decentralized Web Nodes (DWNs)** — replicated data storage and message relay nodes deployed in
+a mesh-like construct.
 
-## Shell
+### User-Centric Applications
 
-Each library requires a 'shell' to wrap and expose functionality. The shell is 
-responsible for handling the application's specific requirements, such as user 
-interface, storage, and network communication.
+When combined, these building blocks enable the creation of user-centric decentralized web 
+applications (DWAs). In contrast to traditional web applications, where user data is stored in 
+centralized databases controlled by the application provider, DWAs store user data with individual
+users in a way that is controlled by the user and not a central authority.
 
-In the case of the server-side features (`issuer` and `verifier`), the shell is
-typically an HTTP server. While in the case of the holder's agent library 
-(`credibil-holder`), the shell is typically a mobile or web application.
+This approach has the potential to revolutionize the way applications are built and used, providing
+users with greater privacy and control over their data while reducing the risk of data breaches and
+misuse.
 
-Example 'shell' implementations can be found in the `examples` directory.
+### Data Portability
+
+One side-effect of this approach to applications is the ability to easily move data or reuse data 
+across applications. For examples, a user could use the same digital identity across multiple 
+applications without having to create new accounts or re-enter the same information.
 
 ## Implementation
 
-The libraries are written in Rust and are designed to be used in a variety of 
-environments, including WebAssembly, mobile, and server-side applications.
+The libraries are written in Rust and are designed for use in a variety of environments, including
+WebAssembly, mobile, and server-side applications.
