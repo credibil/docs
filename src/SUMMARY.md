@@ -1,11 +1,13 @@
 
-[Introduction](./introduction/index.md)
-[Motivation](./introduction/motivation.md)
+[Overview](./overview.md)
+[Motivation](./motivation.md)
 
-# User Guide
+[Anatomy](./dwa-anatomy.md)
 
-- [Architecture](./architecture/index.md)
+- [Decentralized Web Apps](./introduction/decentralized-web-apps.md)
+- [Agentic Web](./introduction/agentic-web.md)
 
+# API Reference
 - [Using the API](./using/index.md)
     - [Issuer](./using/issuer/index.md)
         - [Endpoints](./using/issuer/endpoints.md)
@@ -19,18 +21,18 @@
         - [Endpoints](./using/holder/endpoints.md)
         - [Providers](./using/holder/providers.md)
 
+# Support
+
 - [Stability](./stability/index.md)
     - [Platform Support](./stability/platform-support.md)
     - [Support Tiers](./stability/support-tiers.md)
     - [RFC Process](./stability/rfc-process.md)
     - [Release Process](./stability/release-process.md)
 
-- [KeyOps](./security/index.md)
+- [Security](./security/index.md)
     - [Disclosure Policy](./security/disclosure-policy.md)
-    - [KeyOps Bugs](./security/security-bugs.md)
-
-# Contributer Guide
-
+    - [Security Bugs](./security/security-bugs.md)
+  
 - [Contributing](./contributing/index.md)
     - [Building](./contributing/building.md)
     - [Testing](./contributing/testing.md)
@@ -42,6 +44,6 @@
     - [Governance](./contributing/governance.md)
     - [Code of Conduct](./contributing/coc.md)
 
-# Roadmap
+<!-- # Roadmap
 
-- [Draft chapter]()
+- [Draft chapter]() -->

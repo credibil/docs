@@ -83,9 +83,7 @@ This approach offers several benefits:
 1. Verifiable interactions: Each agent's actions can be tied to a specific, trusted identity.
 2. Granular permissions: Smart contracts can define precise rules for what an AI agent can and 
    cannot do.
-3. Enhanced security: Account abstraction allows for more complex security measures, reducing the
-   risk of unauthorized access.
-4. Auditability: All interactions can be recorded on a blockchain, providing a tamper-proof record.
+3. Auditability: All interactions can be recorded using **DWN**-based tamper-resistant records.
 
 ### Contextual Awareness
 
@@ -98,10 +96,10 @@ informed decisions without compromising privacy.
 
 ### Reliable Data
 
-The need for reliable, permissioned AI data sources has been a contentious issue from the outset,
-with ongoing debates about data origin, rights, and usage.
+The need for reliable, permissioned AI data sources is a contentious issue, with ongoing debates
+about data origin, rights, and usage.
 
-The application of DWNs and DIDs at the data source level offers a solution:
+The application of **DWNs** and **DIDs** at the data source level offers a solution:
 
 1. Provenance: DIDs can prove the origin of data, ensuring its authenticity.
 2. Rights management: Smart contracts associated with DIDs can encode usage rights and
@@ -113,9 +111,9 @@ The application of DWNs and DIDs at the data source level offers a solution:
 5. Incentivization: A DID-based system could allow for fair compensation to data providers, 
    encouraging the creation of high-quality datasets.
 
-By implementing this system, we can create a more transparent, ethical, and efficient ecosystem for
-AI data. This not only resolves many of the current data rights issues but also lays the groundwork
-for more advanced and trustworthy AI systems in the future.
+The building blocks of decentralized identity can be used to create a more transparent, ethical, 
+and efficient ecosystem for AI data. This not only resolves many of the current data rights issues
+but also lays the groundwork for more advanced and trustworthy AI systems in the future.
 
 ## Implementation
 
