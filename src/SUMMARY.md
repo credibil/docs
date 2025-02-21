@@ -1,13 +1,32 @@
 
 [Overview](./overview.md)
-[Motivation](./motivation.md)
 
-[Anatomy](./dwa-anatomy.md)
+# Components
 
-- [Decentralized Web Apps](./introduction/decentralized-web-apps.md)
-- [Agentic Web](./introduction/agentic-web.md)
+- [Decentralized Web Apps](./dwa/index.md)
+    - [Anatomy](./dwa/anatomy.md)
+    - [Implementing](./dwa/implementing.md)
 
-# API Reference
+- [OpenID Credentials](./openid/index.md)
+  - [Issuance](./openid/issuance.md)
+  - [Verification](./openid/verification.md)
+  
+- [AIdentity](./aidentity/index.md)
+
+# Examples
+
+- [DWN](./examples/dwn/index.md)
+  - [Grant access](./examples/dwn/grant.md)
+  - [Configure a protocol](./examples/dwn/protocol.md)
+  - [Writing a record](./examples/dwn/write.md)
+  - [Encrypting data](./examples/dwn/encrypt.md)
+  - [Issuing a credential](./examples/dwn/issue.md)
+
+- [OpenID](./examples/openid/index.md)
+  - [Issuing a credential](./examples/openid/issue.md)
+  - [Verifying a credential](./examples/openid/verify.md)
+  
+<!-- # API Reference
 - [Using the API](./using/index.md)
     - [Issuer](./using/issuer/index.md)
         - [Endpoints](./using/issuer/endpoints.md)
@@ -19,7 +38,9 @@
 
     - [Holder](./using/holder/index.md)
         - [Endpoints](./using/holder/endpoints.md)
-        - [Providers](./using/holder/providers.md)
+        - [Providers](./using/holder/providers.md) -->
+
+--- 
 
 # Support
 

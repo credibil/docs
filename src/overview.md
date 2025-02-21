@@ -1,17 +1,19 @@
 <img src="../images/logo-lockup.svg" alt="logo" width="250px"/>
 
-# Decentralized Web Applications
-
-Credibil provides a collection of libraries for building decentralized web applications; a new 
+Credibil provides a collection of libraries for building decentralized web applications (DWAs); a new 
 class of applications that puts individuals (and their agents) at the centre.
+
+This approach turns the traditional application development model on its head. Data is stored and 
+owned by applicaiton users, not by the application provider. This provides users with greater 
+privacy and control over their data while reducing the risk of data breaches and misuse.
 
 <div style="padding:1rem;text-align:center;">
     <img src="../images/decentralized-web.svg" alt="decentralized web" style="width:80%;max-width:400px;"/>
 </div>
 
-This approach has the potential to revolutionize the way applications are built and used, providing
-users with greater privacy and control over their data while reducing the risk of data breaches and
-misuse.
+While compelling in its own right, the DWA model comes into its own when extended to AI agents 
+acting on behalf of users. It provides a standards-based way for agents to identify themselves, 
+access user data, and interact with other agents in a secure and accountable manner.
 
 ## Building Blocks
 
