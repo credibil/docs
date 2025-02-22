@@ -21,13 +21,13 @@ access user data, and interact with other agents in a secure and accountable man
 Credibil open source libraries are organised around the three building blocks of decentralized web 
 apps:
 
-- *[Decentralized Identifiers](./dwa/dids.md) (DIDs)*: tamper-resistant, self-owned identifiers 
+- *[Decentralized Identifiers](./dwa/dids.md) (DIDs)* — tamper-resistant, self-owned identifiers 
 similar to email addresses or usernames.
 
-- *[Verifiable Credentials](./dwa/vcs.md) (VCs)*: digital credentials that provide cryptographically 
+- *[Verifiable Credentials](./dwa/vcs.md) (VCs)* — digital credentials that provide cryptographically 
 verifiable proof of things like name, age, drivers licence, etc..
 
-- *[Decentralized Web Nodes](./dwa/dwns.md) (DWNs)*: replicated data storage and message relay nodes
+- *[Decentralized Web Nodes](./dwa/dwns.md) (DWNs)* — replicated data storage and message relay nodes
 deployed in a mesh-like construct.
 
  <div style="padding:1rem;text-align:center;">
