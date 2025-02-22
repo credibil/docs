@@ -1,10 +1,27 @@
 
-[Overview](./overview.md)
+<!-- 
+# API Reference
+- [Using the API](./using/index.md)
+    - [Issuer](./using/issuer/index.md)
+        - [Endpoints](./using/issuer/endpoints.md)
+        - [Providers](./using/issuer/providers.md)
 
-# Components
+    - [Verifier](./using/verifier/index.md)
+        - [Endpoints](./using/verifier/endpoints.md)
+        - [Providers](./using/verifier/providers.md)
+
+    - [Holder](./using/holder/index.md)
+        - [Endpoints](./using/holder/endpoints.md)
+        - [Providers](./using/holder/providers.md) 
+-->
+
+[Overview](./overview.md)
 
 - [Decentralized Web Apps](./dwa/index.md)
     - [Anatomy](./dwa/anatomy.md)
+    - [Decentralized Identifiers](./dwa/dids.md)
+    - [Verifiable Credentials](./dwa/vcs.md)
+    - [Decentralized Web Nodes](./dwa/dwns.md)
     - [Implementing](./dwa/implementing.md)
 
 - [OpenID Credentials](./openid/index.md)
@@ -12,6 +29,8 @@
   - [Verification](./openid/verification.md)
   
 - [AIdentity](./aidentity/index.md)
+
+---
 
 # Examples
 
@@ -26,19 +45,9 @@
   - [Issuing a credential](./examples/openid/issue.md)
   - [Verifying a credential](./examples/openid/verify.md)
   
-<!-- # API Reference
-- [Using the API](./using/index.md)
-    - [Issuer](./using/issuer/index.md)
-        - [Endpoints](./using/issuer/endpoints.md)
-        - [Providers](./using/issuer/providers.md)
-
-    - [Verifier](./using/verifier/index.md)
-        - [Endpoints](./using/verifier/endpoints.md)
-        - [Providers](./using/verifier/providers.md)
-
-    - [Holder](./using/holder/index.md)
-        - [Endpoints](./using/holder/endpoints.md)
-        - [Providers](./using/holder/providers.md) -->
+- [DID](./examples/did/index.md)
+  - [Creating a DID](./examples/did/create.md)
+  - [Resolving a DID](./examples/did/resolve.md)
 
 --- 
 

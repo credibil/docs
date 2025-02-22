@@ -1,0 +1,28 @@
+@font-face {
+    font-family: GT-Ultra-Median-Light;
+    src:
+        url(GT-Ultra-Median-Light.woff) format("woff"),
+        /* url(https://cdn.credibil.io/fonts/GT-Ultra-Median-Light.woff) format("woff") */
+}
+
+@font-face {
+    font-family: GT-Ultra-Standard-Light;
+    src:
+        url(GT-Ultra-Standard-Light.woff) format("woff"),
+        /* url(https://cdn.credibil.io/fonts/GT-Ultra-Standard-Light.woff)format("woff") */
+}
+
+ body {
+    font-family: 'GT-Ultra-Standard-Light';
+    font-size: 1.7rem;
+}
+
+h1 {
+    font-family: 'GT-Ultra-Median-Light';
+    /* font-size: 4rem; */
+}
+
+h2 {
+    font-family: 'GT-Ultra-Median-Light';
+    /* font-size: 3rem; */
+}
