@@ -18,7 +18,6 @@
 [Overview](./overview.md)
 
 - [Decentralized Web Apps](./dwa/index.md)
-    - [Anatomy](./dwa/anatomy.md)
     - [Decentralized Identifiers](./dwa/dids.md)
     - [Verifiable Credentials](./dwa/vcs.md)
     - [Decentralized Web Nodes](./dwa/dwns.md)

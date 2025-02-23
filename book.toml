@@ -24,7 +24,7 @@ cname = "credibil.io"
 # site-url = "/"
 
 [output.html.fold]
-enable = true
+# enable = true
 # level = 1
 
 [output.linkcheck]
