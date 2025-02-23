@@ -1,14 +1,14 @@
 # Platform Support
 
-This page is intended to give a high-level overview of Credibil VC's platform support along
+This page is intended to give a high-level overview of Credibil's platform support along
 with a few Credibil aspirations. For more detail, see the [support tiers](./support-tiers.md)
 which has more detail on what is supported and to what extent.
 
-Credibil strives to support hardware that anyone wants to run WebAssembly on. Credibil VC
+Credibil strives to support hardware that anyone wants to run WebAssembly on. Credibil
 maintainers support a number of "major" platforms but porting work may be required
 to support platforms that maintainers are not familiar with. 
 
-Out-of-the box Credibil VC supports:
+Out-of-the box Credibil supports:
 
 * **Linux**: x86\_64, aarch64
 * **MacOS**: x86\_64, aarch64
@@ -32,18 +32,18 @@ are:
 * `gc`
 * `component-model`
 
-Note that Credibil VC does not have a `default` feature which means that when depending on
-Credibil VC you'll need to set features explicitly.
+Note that Credibil does not have a `default` feature which means that when depending on
+Credibil you'll need to set features explicitly.
 
-Credibil VC's support for no\_std requires the embedder to implement the equivalent of a C 
+Credibil's support for no\_std requires the embedder to implement the equivalent of a C 
 header file to indicate how to perform basic OS operations such as allocating virtual 
-memory. This API can be found as `credibil-vc-platform.h` in Credibil VC's release artifacts or at
+memory. This API can be found as `credibil-vc-platform.h` in Credibil's release artifacts or at
 `examples/min-platform/embedding/credibil-vc-platform.h` in the source tree. Note that this 
-API is not guaranteed to be stable at this time, it'll need to be updated when Credibil VC 
+API is not guaranteed to be stable at this time, it'll need to be updated when Credibil 
 is updated.
 
-Credibil VC's runtime will use the symbols defined in this file meaning that if they're not
+Credibil's runtime will use the symbols defined in this file meaning that if they're not
 defined then a link-time error will be generated. Embedders are required to implement 
-these functions in accordance with their documentation to enable Credibil VC to run on custom
+these functions in accordance with their documentation to enable Credibil to run on custom
 platforms.
 </div>

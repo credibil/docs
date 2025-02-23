@@ -1,6 +1,6 @@
 # Architecture
 
-At its most simple, Credibil VC is a library that support 
+At its most simple, Credibil is a library that support 
 developers in building Verifiable Credential-based applications. That is, applications
 that can issue, present, and verify credentials — all underpinned by OpenID for 
 Verifiable Credential specifications.
@@ -11,7 +11,7 @@ Users bring their own HTTP server(s) and implement provider traits for each libr
 
 ## Issuer-Holder-Verifier
 
-Credibil VC is modelled around the _Issuer-Holder-Verifier_ model — a means of exchanging 
+Credibil is modelled around the _Issuer-Holder-Verifier_ model — a means of exchanging 
 Verifiable Credential claims, where claim issuance is independent of the process of 
 presenting them to Verifiers.
 

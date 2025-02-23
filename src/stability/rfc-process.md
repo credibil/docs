@@ -1,10 +1,10 @@
-# Credibil VC RFCs
+# Credibil RFCs
 
-Credibil VC uses an RFC (request for comment) process for instigating major change to any
+Credibil uses an RFC (request for comment) process for instigating major change to any
 project. We see RFCs as a tool for getting feedback on design and implementation ideas
 and for consensus-building among stakeholders.
 
-See the [Credibil VC RFC repo](https://github.com/credibil/rfcs) for a complete list of RFCs.
+See the [Credibil RFC repo](https://github.com/credibil/rfcs) for a complete list of RFCs.
 
 ## What is an RFC?
 

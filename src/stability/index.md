@@ -1,10 +1,10 @@
 # Stability
 
-Credibil VC's stability is a reflection of the process of change in supported features,
+Credibil's stability is a reflection of the process of change in supported features,
 platforms, as well as internal structure. This section should provide some insight
-as to expectations of the maintainers regarding change in Credibil VC.
+as to expectations of the maintainers regarding change in Credibil.
 
-For Credibil VC, the stability of the API is primarily affected by:
+For Credibil, the stability of the API is primarily affected by:
 
 * The process of change — introducing or deprecating features and platforms
 

@@ -1,10 +1,10 @@
 # Building
 
-This section describes everything required to build and run Credibil VC.
+This section describes everything required to build and run Credibil.
 
 ## Prerequisites
 
-Before we can actually build Credibil VC, we'll need to make sure these things are
+Before we can actually build Credibil, we'll need to make sure these things are
 installed first.
 
 ### The Rust Toolchain
