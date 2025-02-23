@@ -18,9 +18,9 @@
 [Overview](./overview.md)
 
 - [Decentralized Web Apps](./dwa/index.md)
-    - [Decentralized Identifiers](./dwa/dids.md)
-    - [Verifiable Credentials](./dwa/vcs.md)
-    - [Decentralized Web Nodes](./dwa/dwns.md)
+    - [Decentralized Identifiers](./dwa/did.md)
+    - [Verifiable Credentials](./dwa/vc.md)
+    - [Decentralized Web Nodes](./dwa/dwn.md)
     - [Implementing](./dwa/implementing.md)
 
 - [OpenID Credentials](./openid/index.md)

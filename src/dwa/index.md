@@ -32,9 +32,9 @@ travel app and logs in using her DID. The app then asks for permission to access
 her travel preferences and reservations.
 
 As Alice uses the app to book flights, hotels, and activities, the app stores her reservations in
-her DWN. When she arrives at the airport, the app uses her DWN to retrieve her boarding pass and
-hotel reservation. When she arrives at the hotel, the app uses her DWN to retrieve her reservation
-and check-in details.
+her DWN. When she arrives at the airport, the app uses her DWN to retrieve her ticket and boarding 
+pass. When she arrives at the hotel, the app uses her DWN to retrieve her reservation and check-in 
+details.
 
 And so on...
 
@@ -42,6 +42,6 @@ And so on...
     <img src="../images/travel-app.svg" alt="dwa example" "/>
 </div>
 
-Alice’s preferences, tickets, reservations, and other travel data are strewn across  different hotel,
-airline, and travel apps. Apps built using DIDs + DWNs can unify experiences like this by selectively
-sharing Alice’s preferences and storing her reservations with her DWN.
+Normally, Alice’s preferences, tickets, reservations, and other travel data would be strewn across
+a range of hotel, airline, and travel apps. Apps built using DIDs + DWNs can unify experiences like
+this by selectively sharing Alice’s preferences and storing her reservations with her DWN.
