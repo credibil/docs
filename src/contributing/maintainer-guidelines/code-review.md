@@ -36,7 +36,7 @@ expectations around the review process. Some examples of good communication are:
 
 If you are able to quickly review the PR, of course, you can just do that.
 
-You can find open Credibil VC pull requests for which your review has been
+You can find open Credibil pull requests for which your review has been
 requested with this search:
 
 <https://github.com/credibil/vc/pulls?q=is:open+type:pr+user-review-requested:@me>
@@ -67,13 +67,13 @@ TODO: Review this hidden div content
 We have several different teams that reviewers may be auto-assigned from. You
 should be in teams where you are likely to know who to re-assign a PR to, if you
 can't review it yourself. The teams are determined by the `CODEOWNERS` file at
-the root of the Credibil VC repository. But despite the name, membership in these
+the root of the Credibil repository. But despite the name, membership in these
 teams is _not_ about who is an authority or "owner" in a particular area. So
 rather than creating a team for each fine-grained division in the repository
 such as individual target architectures or WASI extensions, we use a few
 coarse-grained teams:
 
-- [core-utils-reviewers][]: Credibil VC's core functionality
+- [core-utils-reviewers][]: Credibil's core functionality
 - [credibil-fuzz-reviewers][]: Fuzz testing targets
 - [credibil-default-reviewers][]: Anything else, including CI and documentation
 

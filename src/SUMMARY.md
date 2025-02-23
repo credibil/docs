@@ -1,11 +1,6 @@
 
-[Introduction](./introduction/index.md)
-[Motivation](./introduction/motivation.md)
-
-# User Guide
-
-- [Architecture](./architecture/index.md)
-
+<!-- 
+# API Reference
 - [Using the API](./using/index.md)
     - [Issuer](./using/issuer/index.md)
         - [Endpoints](./using/issuer/endpoints.md)
@@ -17,7 +12,45 @@
 
     - [Holder](./using/holder/index.md)
         - [Endpoints](./using/holder/endpoints.md)
-        - [Providers](./using/holder/providers.md)
+        - [Providers](./using/holder/providers.md) 
+-->
+
+[Overview](./overview.md)
+
+- [Decentralized Web Apps](./dwa/index.md)
+    - [Decentralized Identifiers](./dwa/did.md)
+    - [Verifiable Credentials](./dwa/vc.md)
+    - [Decentralized Web Nodes](./dwa/dwn.md)
+    - [Implementing](./dwa/implementing.md)
+
+- [OpenID Credentials](./openid/index.md)
+  - [Issuance](./openid/issuance.md)
+  - [Verification](./openid/verification.md)
+  
+- [AIdentity](./aidentity/index.md)
+
+---
+
+# Examples
+
+- [DWN](./examples/dwn/index.md)
+  - [Grant access](./examples/dwn/grant.md)
+  - [Configure a protocol](./examples/dwn/protocol.md)
+  - [Writing a record](./examples/dwn/write.md)
+  - [Encrypting data](./examples/dwn/encrypt.md)
+  - [Issuing a credential](./examples/dwn/issue.md)
+
+- [OpenID](./examples/openid/index.md)
+  - [Issuing a credential](./examples/openid/issue.md)
+  - [Verifying a credential](./examples/openid/verify.md)
+  
+- [DID](./examples/did/index.md)
+  - [Creating a DID](./examples/did/create.md)
+  - [Resolving a DID](./examples/did/resolve.md)
+
+--- 
+
+# Support
 
 - [Stability](./stability/index.md)
     - [Platform Support](./stability/platform-support.md)
@@ -25,12 +58,10 @@
     - [RFC Process](./stability/rfc-process.md)
     - [Release Process](./stability/release-process.md)
 
-- [KeyOps](./security/index.md)
+- [Security](./security/index.md)
     - [Disclosure Policy](./security/disclosure-policy.md)
-    - [KeyOps Bugs](./security/security-bugs.md)
-
-# Contributer Guide
-
+    - [Security Bugs](./security/security-bugs.md)
+  
 - [Contributing](./contributing/index.md)
     - [Building](./contributing/building.md)
     - [Testing](./contributing/testing.md)
@@ -42,6 +73,6 @@
     - [Governance](./contributing/governance.md)
     - [Code of Conduct](./contributing/coc.md)
 
-# Roadmap
+<!-- # Roadmap
 
-- [Draft chapter]()
+- [Draft chapter]() -->

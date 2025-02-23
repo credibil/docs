@@ -1,8 +1,8 @@
 # Testing
 
-This section describes how to run Credibil VC's tests and add new tests.
+This section describes how to run Credibil's tests and add new tests.
 
-Before continuing, make sure you can [build Credibil VC](./building.md) successfully. Can't run the tests if you
+Before continuing, make sure you can [build Credibil](./building.md) successfully. Can't run the tests if you
 can't build it!
 
 ## Installing `wasm32` Targets
@@ -18,7 +18,7 @@ rustup target add wasm32-wasip1
 
 ## Running All Tests
 
-To run all of Credibil VC's tests, execute this command:
+To run all of Credibil's tests, execute this command:
 
 ```shell
 cargo test --workspace
@@ -33,7 +33,7 @@ cargo test --workspace --exclude verifier
 
 ## Testing a Specific Crate
 
-You can test a particular Credibil VC crate with `cargo test -p
+You can test a particular Credibil crate with `cargo test -p
 whatever`. For example, to test the example `issuer` crate, execute
 this command:
 

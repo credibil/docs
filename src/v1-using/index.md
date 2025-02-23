@@ -1,4 +1,4 @@
-# Using the Credibil VC API
+# Using the Credibil API
 
 <div class="warning">
     APIs listed here are still <strong>under development</strong>.
@@ -7,7 +7,7 @@
     production use!
 </div>
 
-The Credibil VC API comprises a library with two top-level features that form the backbone of OpenID 
+The Credibil API comprises a library with two top-level features that form the backbone of OpenID 
 for Verifiable Credentials.
 
 - [Issuer](./issuer/index.md) — based on the [OpenID for Verifiable Credential Issuance]
@@ -21,7 +21,7 @@ for Verifiable Credentials.
 ## Design Axioms
 
 While not critical to learning to use the API, the following design axioms might be of
-some interest in understanding the philosophy we adopted for the development of Credibil VC
+some interest in understanding the philosophy we adopted for the development of Credibil
 libraries.
 
 ### Do not bake HTTP into the API
@@ -41,7 +41,7 @@ of I/O and maximum utility.
 
 ### Be opinionated
 
-Credibil VC libraries are opinionated in that they provide a specific way of doing things.
+Credibil libraries are opinionated in that they provide a specific way of doing things.
 Each endpoint accepts a strongly-typed Request object and returns a strongly-typed
 Response object. This is intended to make the libraries easy to use and reason
 about.
