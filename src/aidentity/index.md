@@ -1,5 +1,9 @@
 # AIdentity
 
+*Trust on the Internet has been steadily eroding and generative AI is now pouring petrol on the
+fire. It gives attackers tools to quickly create deep fakes so realistic they can even fool CFOs
+and cybersecurity professionals.*
+
 AI-based apps are starting to manifest as living agents - autonomous software entities that perceive
 their environment, make decisions, and take actions to achieve specific goals. These agents will 
 become increasingly prevalent, offering both helpful assistance and, unfortunately, new avenues for

@@ -9,7 +9,7 @@ owned by application users rather than the application provider. This provides u
 privacy and control over their data while reducing the risk of data breaches and misuse.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/decentralized-web.svg" alt="decentralized web" style="width:80%;max-width:400px;"/>
+    <img src="../images/decentralised-web.svg" alt="decentralised web" style="width:80%;max-width:400px;"/>
 </div>
 
 While compelling in its own right, the DWA model comes into its own when extended to AI agents 
