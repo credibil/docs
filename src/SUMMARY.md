@@ -15,7 +15,11 @@
         - [Providers](./using/holder/providers.md) 
 -->
 
+
+
 [Overview](./overview.md)
+
+# Concepts
 
 - [Decentralized Web Apps](./dwa/index.md)
     - [Decentralized Identifiers](./dwa/did.md)
@@ -23,9 +27,9 @@
     - [Decentralized Web Nodes](./dwa/dwn.md)
     - [Implementing](./dwa/implementing.md)
 
-- [OpenID Credentials](./openid/index.md)
-  - [Issuance](./openid/issuance.md)
-  - [Verification](./openid/verification.md)
+- [Credential Exchange](./credex/index.md)
+  - [Issuance](./credex/issuance.md)
+  - [Verification](./credex/verification.md)
   
 - [AIdentity](./aidentity/index.md)
 

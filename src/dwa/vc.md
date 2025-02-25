@@ -6,7 +6,7 @@ on the Web in a way that is cryptographically secure, privacy respecting, and ma
 
 In the context of Decentralised Web Apps (DWAs) VCs can be used to make assertions, or claims, 
 about the holder. In the example below an employer (Issuer) issues a credential to an employee
-(Holder) as proof of employment. The employee can then present this credential tot heir bank 
+(Holder) as proof of employment. The employee can then present this credential to their bank 
 (Verifier) as proof of income.
 
 <div style="padding:1rem;text-align:center;">
