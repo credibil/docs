@@ -37,8 +37,8 @@
 - [Stability](./stability/index.md)
     - [Platform Support](./stability/platform-support.md)
     - [Support Tiers](./stability/support-tiers.md)
-    - [RFC Process](./stability/rfc-process.md)
     - [Release Process](./stability/release-process.md)
+    <!-- - [RFC Process](./stability/rfc-process.md) -->
 
 - [Security](./security/index.md)
     - [Disclosure Policy](./security/disclosure-policy.md)
@@ -54,7 +54,5 @@
         - [Release Process](./contributing/maintainer-guidelines/release-process.md)
     - [Governance](./contributing/governance.md)
     - [Code of Conduct](./contributing/coc.md)
-
-<!-- # Roadmap
 
 - [Draft chapter]() -->

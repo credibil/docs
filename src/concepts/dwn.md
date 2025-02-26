@@ -7,7 +7,7 @@ Because a DWN is controlled by its owning entity, a wide variety of decentralise
 can be built to be privacy respecting as well as inter-operate across application boundaries.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/dwn.svg" alt="decentralized web node" style="width:80%;max-width:500px"/>
+    <img src="/images/dwn.svg" alt="decentralized web node" style="width:80%;max-width:500px"/>
 </div>
 
 ## Features

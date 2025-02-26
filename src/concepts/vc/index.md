@@ -10,7 +10,7 @@ about the holder. In the example below an employer (Issuer) issues a credential 
 (Verifier) as proof of income.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/vc.svg" alt="trust framework" />
+    <img src="/images/vc.svg" alt="trust framework" />
 </div>
 
 ## Issuing and Verifying VCs

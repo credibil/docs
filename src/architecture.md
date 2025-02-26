@@ -7,7 +7,7 @@ Verifiable Credential specifications.
 
 Users bring their own HTTP server(s) and implement provider traits for each library.
 
-![overview](../images/architecture.png)
+![overview](/images/architecture.png)
 
 ## Issuer-Holder-Verifier
 

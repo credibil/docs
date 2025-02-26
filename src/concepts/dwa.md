@@ -16,7 +16,7 @@ in the form of Decentralised Web Nodes (DWNs) and standardised authentication in
 Decentralised Identifiers (DIDs).
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/dwa.svg" alt="decentralized web" />
+    <img src="/images/dwa.svg" alt="decentralized web" />
 </div>
 
 Given a user's DID, apps can access data, relay messages between users, and generally transact
@@ -39,7 +39,7 @@ details.
 And so on...
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/travel-app.svg" alt="dwa example" "/>
+    <img src="/images/travel-app.svg" alt="dwa example" "/>
 </div>
 
 Normally, Alice’s preferences, tickets, reservations, and other travel data would be strewn across

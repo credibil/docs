@@ -27,7 +27,7 @@ Prior to initiating this flow, the Issuer prepares by authenticating and authori
 End-User.
 
 <figure style="text-align:center;padding-top:1.5rem;">
-  <img src="../../images/issue-pre-auth.png" width="80%" alt="Pre-Authorized Flow">
+  <img src="/images/issue-pre-auth.png" width="80%" alt="Pre-Authorized Flow">
     <figcaption>Pre-Authorized Code Flow</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Following authorization, the Wallet exchanges the Authorization Code for an Acce
 and the flow continues from Token Endpoint to Credential Endpoint as above.
 
 <figure style="text-align:center;padding-top:1.5rem;">
-  <img src="../../images/issue-auth.png" alt="Pre-Authorized Flow">
+  <img src="/images/issue-auth.png" alt="Pre-Authorized Flow">
     <figcaption>Authorization Code Flow</figcaption>
 </figure>
 

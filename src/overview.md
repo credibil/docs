@@ -1,4 +1,4 @@
-<img src="../images/logo-lockup.svg" alt="logo" width="250px"/>
+<img src="/images/logo-lockup.svg" alt="logo" width="250px"/>
 
 Credibil provides a framework — a collection of libraries — for building 
 [decentralized web applications](./concepts/dwa.md) (DWAs); a new class of applications built
@@ -9,7 +9,7 @@ owned by application users rather than the application provider. This provides u
 privacy and control over their data while reducing the risk of data breaches and misuse.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/decentralised-web.svg" alt="decentralised web" style="width:80%;max-width:400px;"/>
+    <img src="/images/decentralised-web.svg" alt="decentralised web" style="width:80%;max-width:400px;"/>
 </div>
 
 While compelling in its own right, the DWA model comes into its own when extended to AI agents 
@@ -31,7 +31,7 @@ verifiable proof of things like name, age, drivers licence, etc..
 deployed in a mesh-like construct.
 
  <div style="padding:1rem;text-align:center;">
-    <img src="../images/building-blocks.svg" alt="decentralized web" style="width:80%;max-width:300px;"/>
+    <img src="/images/building-blocks.svg" alt="decentralized web" style="width:80%;max-width:300px;"/>
 </div> 
 
 When combined, these building blocks enable the creation of user-centric, portable, and "agentic"

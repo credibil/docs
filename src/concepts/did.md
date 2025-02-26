@@ -6,7 +6,7 @@ they are URIs that resolve to a DID Document containing information such as publ
 and service endpoints for the owning entity.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/did.svg" alt="decentralized identifier" style="width:80%"/>
+    <img src="/images/did.svg" alt="decentralized identifier" style="width:80%"/>
 </div>
 
 In the context of Decentralised Web Apps (DWAs), DIDs are used to authenticate individuals (or organisations, 

@@ -10,7 +10,7 @@ become increasingly prevalent, offering both helpful assistance and, unfortunate
 criminal or abusive activities.
 
 <div style="padding:1rem;text-align:center;">
-    <img src="../images/agentic-web.svg" alt="decentralized web" style="width:80%;max-width:800px;"/>
+    <img src="/images/agentic-web.svg" alt="decentralized web" style="width:80%;max-width:800px;"/>
 </div>
 
 To navigate this landscape safely, both individuals and service providers can leverage the building

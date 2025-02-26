@@ -1,4 +1,4 @@
-# KeyOps Bugs
+# Security Bugs
 
 **If you are unsure whether an issue is a security vulnerability, always err on the side
 of caution and report it as a security vulnerability!**

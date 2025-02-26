@@ -17,7 +17,7 @@ Verifiable Presentations are returned to the Verifier in the fragment part of th
 redirect URI, when Response Mode is fragment.
 
 <figure style="text-align:center;padding-top:1.5rem;">
-  <img src="../../images/verify-same-device.png" width="60%" alt="Pre-Authorized Flow">
+  <img src="/images/verify-same-device.png" width="60%" alt="Pre-Authorized Flow">
     <figcaption>Same-Device Flow</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Once authorized, the Wallet send the resulting Verifiable Presentations directly
 Verifier (using HTTPS POST).
 
 <figure style="text-align:center;padding-top:1.5rem;">
-  <img src="../../images/verify-cross-device.png"  width="60%" alt="Pre-Authorized Flow">
+  <img src="/images/verify-cross-device.png"  width="60%" alt="Pre-Authorized Flow">
     <figcaption>Cross-Device Flow</figcaption>
 </figure>
 
