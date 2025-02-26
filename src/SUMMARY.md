@@ -1,37 +1,15 @@
-
-<!-- 
-# API Reference
-- [Using the API](./using/index.md)
-    - [Issuer](./using/issuer/index.md)
-        - [Endpoints](./using/issuer/endpoints.md)
-        - [Providers](./using/issuer/providers.md)
-
-    - [Verifier](./using/verifier/index.md)
-        - [Endpoints](./using/verifier/endpoints.md)
-        - [Providers](./using/verifier/providers.md)
-
-    - [Holder](./using/holder/index.md)
-        - [Endpoints](./using/holder/endpoints.md)
-        - [Providers](./using/holder/providers.md) 
--->
-
-
-
 [Overview](./overview.md)
 
 # Concepts
 
-- [Decentralized Web Apps](./dwa/index.md)
-    - [Decentralized Identifiers](./dwa/did.md)
-    - [Verifiable Credentials](./dwa/vc.md)
-    - [Decentralized Web Nodes](./dwa/dwn.md)
-    - [Implementing](./dwa/implementing.md)
-
-- [Credential Exchange](./credex/index.md)
-  - [Issuance](./credex/issuance.md)
-  - [Verification](./credex/verification.md)
+- [Decentralized Identifiers (DID)](./concepts/did.md)
+- [Verifiable Credentials (VC)](./concepts/vc/index.md)
+  - [Issuance (OID4VCI)](./concepts/vc/issuance.md)
+  - [Presentation (OID4VP)](./concepts/vc/presentation.md)
   
-- [AIdentity](./aidentity/index.md)
+- [Decentralized Web Nodes (DWN)](./concepts/dwn.md)
+- [Decentralized Web Apps (DWA)](./concepts/dwa.md)
+- [AI Agent Identity](./aidentity/index.md)
 
 ---
 

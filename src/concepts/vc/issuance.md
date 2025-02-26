@@ -1,3 +1,3 @@
-# Writing a record
+# Issuance
 
 > TODO: This page is a work in progress.

@@ -1,7 +1,7 @@
 <img src="../images/logo-lockup.svg" alt="logo" width="250px"/>
 
 Credibil provides a framework — a collection of libraries — for building 
-[decentralized web applications](./dwa/index.md) (DWAs); a new class of applications built
+[decentralized web applications](./concepts/dwa.md) (DWAs); a new class of applications built
 around individuals (and their agents).
 
 DWAs turn the traditional application development model on its head. Data is stored and 
@@ -21,13 +21,13 @@ access user data, and interact with other agents in a secure and accountable man
 Credibil open source libraries are organised around the three building blocks of decentralized web 
 apps:
 
-- *[Decentralized Identifiers](./dwa/did.md) (DIDs)* — tamper-resistant, self-owned identifiers 
+- *[Decentralized Identifiers](./concepts/did.md) (DIDs)* — tamper-resistant, self-owned identifiers 
 similar to email addresses or usernames.
 
-- *[Verifiable Credentials](./dwa/vc.md) (VCs)* — digital credentials that provide cryptographically 
+- *[Verifiable Credentials](./concepts/vc/index.md) (VCs)* — digital credentials that provide cryptographically 
 verifiable proof of things like name, age, drivers licence, etc..
 
-- *[Decentralized Web Nodes](./dwa/dwn.md) (DWNs)* — replicated data storage and message relay nodes
+- *[Decentralized Web Nodes](./concepts/dwn.md) (DWNs)* — replicated data storage and message relay nodes
 deployed in a mesh-like construct.
 
  <div style="padding:1rem;text-align:center;">
